@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hello World, I'm Haneel Kumar N</h1>
 <h3 align="center">I am a Web Developer, ML Enthusiast and an Athlete. I enjoy exploring new frameworks and testing out new ideas.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/ND8Q.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneelkumar7&label=Profile%20views&color=0e75b6&style=flat" alt="haneelkumar7" /> </p>
 
