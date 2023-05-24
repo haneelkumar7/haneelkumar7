@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hello World, I'm Haneel Kumar N</h1>
 <h3 align="center">I am a Web Developer, ML Enthusiast and an Athlete. I enjoy exploring new frameworks and testing out new ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/ND8Q.gif">
